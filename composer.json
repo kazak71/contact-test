@@ -4,7 +4,9 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "laravelcollective/html": "^6.0"
+    },
     "autoload": {
         "psr-4": {
             "Kazak71\\Contact\\": "src/"
